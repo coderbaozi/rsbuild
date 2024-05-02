@@ -139,7 +139,7 @@
     "fs-extra": "^11.2.0",
     "gzip-size": "^6.0.0",
     "html-webpack-plugin": "npm:html-rspack-plugin@5.7.2",
-    "http-proxy-middleware": "^2.0.6",
+    "http-proxy-middleware": "^3.0.0",
     "icss-utils": "5.1.0",
     "jiti": "^1.21.0",
     "json5": "^2.2.3",
